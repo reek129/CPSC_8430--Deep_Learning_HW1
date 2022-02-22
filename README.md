@@ -4,7 +4,9 @@ Deep Learning Homework1 Submission
 
 # HW 1_1 (Main Files)
 Simulated Function 1 : 
+
 Simulated Function 2 : 
+
 Cifar10 3 Model :
 
 # HW 1_2 (Main FIles):
