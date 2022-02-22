@@ -1,7 +1,10 @@
 # CPSC_8430--Deep_Learning_HW1
 Deep Learning Homework1 Submission
 
-Implementation files
+# To create an System environment
+conda env create --file <yml file name(pytorch_DL_hw1_env)> --name <Anyname>
+
+# Implementation files
 Cifar Training files: Cifar/pytorch_training2.py 
 
 Cifar DataLoader and Transform file:- Cifar/cifar_dl_dt_helper.py
