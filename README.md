@@ -3,15 +3,15 @@ Deep Learning Homework1 Submission
 
 
 # HW 1_1 (Main Files)
-Simulated Function 1 : 
+Simulated Function 1 : Section1/HW1_1SimulatedFunc1_final/SimFunc1_Main.py
 
-Simulated Function 2 : 
+Simulated Function 2 : Section1/HW1_1SimulatedFunc1_final/SimFunc2_Main.py
 
-Cifar10 3 Model :
+Cifar10 3 Model : Cifar/Cifar3Models_hw_1_3.ipynb
 
 # HW 1_2 (Main FIles):
 
-Visualization of weights with different epochs for multiple times:- 
+Visualization of weights with different epochs for multiple times:- Cifar/cifar 
 
 Observation for Gradient Norm-
 
