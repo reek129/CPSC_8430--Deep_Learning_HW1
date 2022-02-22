@@ -1,6 +1,12 @@
 # CPSC_8430--Deep_Learning_HW1
 Deep Learning Homework1 Submission
 
+Implementation files
+Cifar Training files: Cifar/pytorch_training2.py 
+Cifar DataLoader and Transform file:- Cifar/cifar_dl_dt_helper.py
+
+Helper functions for grad_norm, sensitivity analysis - Cifar/pytorch_model_helper.py 
+
 
 # HW 1_1 (Main Files)
 Simulated Function 1 : Section1/HW1_1SimulatedFunc1_final/SimFunc1_Main.py
