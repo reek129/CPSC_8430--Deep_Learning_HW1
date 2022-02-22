@@ -2,7 +2,7 @@
 Deep Learning Homework1 Submission
 
 # To create an System environment
-conda env create --file <yml file name(pytorch_DL_hw1_env)> --name <Anyname>
+conda env create --file <yml file name ( pytorch_DL_hw1_env) > --name < Anyname >
 
 # Implementation files
 Cifar Training files: Cifar/pytorch_training2.py 
